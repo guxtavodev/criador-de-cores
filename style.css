@@ -9,7 +9,7 @@ body{
   width: 100%;
   background: linear-gradient(45deg, #0000FF, #00FFFF);
   height: 100vh;
-  
+  font-family: Arial, Helvetica;
 }
 
 main{
